@@ -8,6 +8,9 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [My Contribution](#my-contribution)
+- [Impact Highlights](#impact-highlights)
+- [Original Repository](#original-repository)
 - [Demo Videos](#demo-videos)
 - [Features](#features)
 - [Database Schema](#database-schema)
@@ -30,6 +33,26 @@ At its core, MindTrace is more than just an app - it's a digital companion that 
 We believe that technology should serve humanity, not replace it. That's why MindTrace is designed to work seamlessly with your existing care network - whether it's a trusted family member, a professional caregiver, or a dedicated maid. Our multi-layered security ensures that your loved one's privacy and dignity are always protected, while our intelligent notification system keeps everyone who cares informed and connected.
 
 In a world where dementia can make communication difficult and memories fade, MindTrace helps preserve the precious moments, maintain routines, and ensure that no important detail is lost. It's our way of saying that even in the face of cognitive challenges, every life deserves to be lived with dignity, connection, and love.
+
+## My Contribution
+
+- Built Android (Kotlin) frontend modules for core caregiver and patient-facing workflows
+- Integrated AI capabilities into the mobile app flow to support conversation-driven features
+- Implemented frontend-backend integration across APIs for authentication, reminders, logging, and data sync
+- Contributed to feature delivery, test validation, and cross-team debugging during team development
+
+## Impact Highlights
+
+- Delivered production-oriented Kotlin components that support real-world dementia care workflows
+- Helped connect AI-assisted interactions with usable mobile experiences for caregivers and patients
+- Improved end-to-end system reliability through integration testing and issue resolution across mobile and backend layers
+
+## Original Repository
+
+This project was developed as a team project.
+Original repo: https://github.com/Sadatul/MindTrace
+
+My contributions can be verified through commit history in the original repository.
 
 ## Demo Videos
 
